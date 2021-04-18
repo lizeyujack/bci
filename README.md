@@ -11,3 +11,8 @@
 ![image](https://user-images.githubusercontent.com/53364734/112943727-6e680500-9164-11eb-8a08-af31dee29326.png)
 
 
+下载pytorch
+```py
+pip install fastai
+pip install torchvision
+```
